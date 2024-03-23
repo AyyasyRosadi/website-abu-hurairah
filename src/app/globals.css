@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer components{
+  .item {
+    position: relative;
+    top: 0;
+    animation: move 10s ease-in-out alternate infinite 1s;
+  }
+  @keyframes move {
+    25% {
+      top: 0vh; 
+    }
+    50% {
+      top: -95vh;
+    }
+    75% {
+      top: -190vh;
+    }
+    100% {
+      top: -285vh;
+    }
+    0%{
+      top: 0vh;
+    }
+  }
+}
