@@ -9,5 +9,5 @@ export const listLembaga = [
     {lembaga:"SMP IT Fullday",link:"https://smaitputraabuhurairah.sch.id"},
     {lembaga:"SMA IT Putra Fulday",link:"https://smaitputraabuhurairah.sch.id"},
     {lembaga:"Diniyyah",link:"https://diniyyah.ponpesabuhurairah.id"},
-    {lembaga:"I'Dad",link:"https://idad.ponpesabuhurairah.id"},
+    {lembaga:"PGMI (Pendidikan Guru Madrasah Ibtidaiyah)",link:"https://pgmi.ponpesabuhurairah.id"},
 ]

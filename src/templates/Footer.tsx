@@ -20,7 +20,7 @@ export default function Footer() {
                         <li className='hover:text-white cursor-pointer ml-5 text-xl hover:font-extrabold'><a href="https://smaitputraabuhurairah.sch.id">SMP IT Fullday</a></li>
                         <li className='hover:text-white cursor-pointer ml-5 text-xl hover:font-extrabold'><a href="https://smaitputraabuhurairah.sch.id">SMA IT Putra Fullday</a></li>
                         <li className='hover:text-white cursor-pointer ml-5 text-xl hover:font-extrabold'><a href="https://diniyyah.ponpesabuhurairah.id">Diniyyah</a></li>
-                        <li className='hover:text-white cursor-pointer ml-5 text-xl hover:font-extrabold'><a href="https://idad.ponpesabuhurairah.id">I&apos;Dad</a></li>
+                        <li className='hover:text-white cursor-pointer ml-5 text-xl hover:font-extrabold'><a href="https://pgmi.ponpesabuhurairah.id">PGMI (Pendidikan Guru Madrasah Ibtidaiyah)</a></li>
                     </ul>
                 </div>
                 <div className='flex flex-col md:w-[30%] w-[90%] mt-9'>
@@ -34,19 +34,19 @@ export default function Footer() {
                         <h1 className="font-extrabold text-2xl">Alamat Kami</h1>
                         <div className='flex gap-3 text-xl'>
                             <div>
-                                <SiGooglemaps loading="lazy" placeholder="blur" className="w-10 h-10" />
+                                <SiGooglemaps className="w-10 h-10" />
                             </div>
                             <p>Jalan Soromandi No. 1A Lawata, Kelurahan Dasan Agung Baru, Kecamatan Selaparang, KotaMataram. Telp. (0370) 6170501.</p>
                         </div>
                         <div className='flex gap-3 text-xl'>
                             <div>
-                                <SiGooglemaps loading="lazy" placeholder="blur" className="w-10 h-10" />
+                                <SiGooglemaps className="w-10 h-10" />
                             </div>
                             <p>Jalan Majapahit No. 54 B Punia, Mataram. Telp. (0370) 639259.</p>
                         </div>
                         <div className='flex gap-3 text-xl'>
                             <div>
-                                <SiGooglemaps loading="lazy" placeholder="blur" className="w-10 h-10" />
+                                <SiGooglemaps className="w-10 h-10" />
                             </div>
                             <p>Dusun Berugak Mujur, Desa Sembalun Timba Gading, Kecamatan Sembalun, KabupatenLombok Timur.</p>
                         </div>
